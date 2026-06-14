@@ -1,0 +1,23 @@
+{
+  "total_rows": 5000,
+  "valid_rows": 5000,
+  "invalid_rows": 0,
+  "duplicate_texts": 0,
+  "type_distribution": {
+    "expense": 3076,
+    "income": 1724,
+    "transfer": 200
+  },
+  "category_distribution": {
+    "Transportasi": 1015,
+    "Freelance": 900,
+    "Gaji": 824,
+    "Tagihan & Utilitas": 438,
+    "Belanja": 419,
+    "Hiburan": 413,
+    "Makan & Minum": 403,
+    "Kesehatan": 388,
+    "Transfer": 200
+  },
+  "wallet_null_count": 4300
+}

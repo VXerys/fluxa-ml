@@ -1,0 +1,11 @@
+file,audio_path,raw_transcript,normalized_transcript,language_hint,confidence,pred_type,pred_amount,pred_category,pred_wallet,raw_type,resolved_type,warnings,expected_transcript,expected_type,expected_amount,expected_category,stt_error_note
+001_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/001_audio.m4a,mulai kopi luar puluh ribu,mulai kopi luar puluh ribu,id,1.0,expense,10000.0,Makan & Minum,,expense,expense,,,,,,
+002_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/002_audio.m4a,"Mayar, para keren matohru lima debo",bayar para keren matohru lima debo,id,1.0,expense,,Kesehatan,,expense,expense,amount_not_detected,,,,,
+003_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/003_audio.m4a,"beri nasi padang 2,5 ribu",beri nasi padang 2 5 ribu,id,1.0,expense,2500.0,Transportasi,,expense,expense,,,,,,
+004_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/004_audio.m4a,Ini dia bensin di mappuluh semua,ini dia bensin di mappuluh semua,id,1.0,expense,,Transportasi,,expense,expense,amount_not_detected,,,,,
+005_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/005_audio.m4a,Mayar wifi telur atus ribu.,bayar wifi telur atus ribu,id,1.0,expense,1000.0,Tagihan & Utilitas,,expense,expense,,,,,,
+006_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/006_audio.m4a,jajan silok di marebuk,jajan silok di marebuk,id,1.0,expense,,Makan & Minum,,expense,expense,amount_not_detected,,,,,
+007_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/007_audio.m4a,"Nari magadi, gue ajutah.",nari magadi gue ajutah,id,1.0,expense,,Makan & Minum,,expense,expense,amount_not_detected,,,,,
+008_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/008_audio.m4a,"Transpron, kai mu isiratus rebu.",transpron kai mu isiratus ribu,id,1.0,expense,1000.0,Makan & Minum,,expense,expense,,,,,,
+009_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/009_audio.m4a,BAYARKOS HIDI YUTA,bayarkos hidi yuta,id,1.0,expense,,Makan & Minum,,expense,expense,amount_not_detected,,,,,
+010_audio.m4a,/home/jovyan/projects/Fluxa/audio_samples/010_audio.m4a,melikol saya luak pun luarai buk.,melikol saya luak pun luarai buk,id,1.0,expense,,Makan & Minum,,expense,expense,amount_not_detected,,,,,

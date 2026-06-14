@@ -1,0 +1,16 @@
+{
+  "total_audio": 10,
+  "amount_detected": 10,
+  "amount_missing": 0,
+  "warnings_count": 4,
+  "categories": {
+    "Transportasi": 4,
+    "Makan & Minum": 3,
+    "Tagihan & Utilitas": 2,
+    "Gaji": 1
+  },
+  "types": {
+    "expense": 9,
+    "income": 1
+  }
+}

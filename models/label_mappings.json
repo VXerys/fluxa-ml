@@ -1,0 +1,54 @@
+{
+  "type2id": {
+    "expense": 0,
+    "income": 1,
+    "transfer": 2
+  },
+  "id2type": {
+    "0": "expense",
+    "1": "income",
+    "2": "transfer"
+  },
+  "category2id": {
+    "Belanja": 0,
+    "Freelance": 1,
+    "Gaji": 2,
+    "Hiburan": 3,
+    "Kesehatan": 4,
+    "Makan & Minum": 5,
+    "Tagihan & Utilitas": 6,
+    "Transfer": 7,
+    "Transportasi": 8
+  },
+  "id2category": {
+    "0": "Belanja",
+    "1": "Freelance",
+    "2": "Gaji",
+    "3": "Hiburan",
+    "4": "Kesehatan",
+    "5": "Makan & Minum",
+    "6": "Tagihan & Utilitas",
+    "7": "Transfer",
+    "8": "Transportasi"
+  },
+  "wallet2id": {
+    "BCA": 0,
+    "BRI": 1,
+    "Cash": 2,
+    "Dana": 3,
+    "GoPay": 4,
+    "Mandiri": 5,
+    "OVO": 6,
+    "ShopeePay": 7
+  },
+  "id2wallet": {
+    "0": "BCA",
+    "1": "BRI",
+    "2": "Cash",
+    "3": "Dana",
+    "4": "GoPay",
+    "5": "Mandiri",
+    "6": "OVO",
+    "7": "ShopeePay"
+  }
+}
