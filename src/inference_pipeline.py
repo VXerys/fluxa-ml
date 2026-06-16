@@ -84,6 +84,8 @@ class ClassificationResult:
     raw_type: str
     resolved_type: str
     category: str
+    raw_type_confidence: Optional[float] = None
+    category_confidence: Optional[float] = None
 
 
 @dataclass
@@ -130,6 +132,20 @@ def resolve_transaction_type(pred_type: str, pred_category: str) -> str:
     return "expense"
 
 
+def _prediction_confidence(model: Any, text: str, predicted_label: str) -> Optional[float]:
+    """Return classifier confidence when the sklearn model exposes probabilities."""
+    if not hasattr(model, "predict_proba") or not hasattr(model, "classes_"):
+        return None
+
+    probabilities = model.predict_proba([text])[0]
+    class_labels = [str(label) for label in model.classes_]
+
+    if predicted_label not in class_labels:
+        return None
+
+    return float(probabilities[class_labels.index(predicted_label)])
+
+
 def infer_transaction(
     text: str,
     type_model: Any,
@@ -151,6 +167,8 @@ def infer_transaction(
 
     raw_pred_type = str(type_model.predict([text])[0])
     raw_pred_category = str(category_model.predict([text])[0])
+    raw_type_confidence = _prediction_confidence(type_model, text, raw_pred_type)
+    category_confidence = _prediction_confidence(category_model, text, raw_pred_category)
     pred_category, category_warning = resolve_category_by_keywords(
         normalized,
         raw_pred_category,
@@ -194,6 +212,8 @@ def infer_transaction(
         raw_type=raw_pred_type,
         resolved_type=resolved_type,
         category=pred_category,
+        raw_type_confidence=raw_type_confidence,
+        category_confidence=category_confidence,
     )
 
     return {

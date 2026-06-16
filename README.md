@@ -136,3 +136,31 @@ reports/
 - GPU Xsmall: fine-tuning IndoBERT/XLM-R.
 
 Mulai dari baseline dulu sebelum memakai GPU.
+
+## Optional Groq fallback backend
+
+Groq fallback is disabled by default and only runs after the local parser returns
+an uncertain draft. It does not replace Whisper STT, does not replace the local
+amount parser, and must never be called from Flutter.
+
+Required backend environment variables:
+
+```env
+ENABLE_GROQ_FALLBACK=false
+GROQ_API_KEY=
+GROQ_BASE_URL=https://api.groq.com/openai/v1
+GROQ_MODEL=
+GROQ_TIMEOUT_SECONDS=8
+```
+
+Set `ENABLE_GROQ_FALLBACK=true`, provide `GROQ_API_KEY`, and choose a current
+Groq chat model for `GROQ_MODEL` in the backend environment only. The response
+stays backward-compatible; `transaction.title` and optional confidence fields
+may be present, while existing fields remain unchanged.
+
+Fallback is attempted only for uncertain cases such as parser warnings, noisy
+titles, Transfer/category conflicts, missing wallet despite wallet-like words,
+suspicious STT tokens, or low classifier confidence. Groq corrections are
+validated against the allowed category, type, and wallet lists before being
+applied. Invalid JSON, timeout, invalid values, or request failure keeps the
+local parser result and adds `groq_fallback_failed` when fallback was attempted.

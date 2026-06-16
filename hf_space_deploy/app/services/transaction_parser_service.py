@@ -5,6 +5,8 @@ from typing import Any
 
 import joblib
 
+from app.services.groq_fallback_service import groq_fallback_service
+from app.services.title_parser_service import parse_transaction_title
 from src.inference_pipeline import infer_transaction
 
 
@@ -34,11 +36,22 @@ class TransactionParserService:
         self.category_model: Any = joblib.load(self.category_model_path)
 
     def parse_text(self, text: str) -> dict[str, Any]:
-        return infer_transaction(
+        result = infer_transaction(
             text=text,
             type_model=self.type_model,
             category_model=self.category_model,
         )
+
+        self._apply_local_title(result)
+        return groq_fallback_service.apply_if_needed(result)
+
+    def _apply_local_title(self, result: dict[str, Any]) -> None:
+        transaction = result.setdefault("transaction", {})
+        title = parse_transaction_title(result.get("transcript", {}).get("raw", ""))
+
+        if title is not None:
+            transaction.setdefault("title", title)
+            transaction["description"] = transaction.get("description") or title
 
 
 transaction_parser_service = TransactionParserService()

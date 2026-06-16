@@ -21,6 +21,7 @@ class TransactionResponse(BaseModel):
     amount: Optional[int]
     category: str
     wallet: Optional[str] = None
+    title: Optional[str] = None
     description: Optional[str] = None
     currency: str = "IDR"
 
@@ -29,10 +30,12 @@ class ClassificationResponse(BaseModel):
     raw_type: str
     resolved_type: str
     category: str
+    raw_type_confidence: Optional[float] = None
+    category_confidence: Optional[float] = None
 
 
 class VoiceTransactionResponse(BaseModel):
     transcript: TranscriptResponse
     transaction: TransactionResponse
     classification: ClassificationResponse
-    warnings: list[str] = []
+    warnings: list[str] = Field(default_factory=list)
