@@ -32,7 +32,3 @@ temp/
 
 # Optional: ignore audio samples if too large/private
 audio_samples/
-
-*.joblib
-models/
-experiments/baseline_tfidf_v1/models/
