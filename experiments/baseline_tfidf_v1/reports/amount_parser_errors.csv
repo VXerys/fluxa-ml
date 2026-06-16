@@ -1,0 +1,178 @@
+id,text,normalized_text,amount,pred_amount,type,category,language_style,difficulty,case_type
+VX-SU-003044,dibayar tujuh ratus rébu tina proyék freelance ka cash,dibayar tujuh ratus rébu tina proyék freelance ke cash,700000,,income,Freelance,su,medium,wallet_mention
+VX-SU-003601,kuring sangu goréng lima belas rebu,kuring sangu goréng lima belas ribu,15000,5000.0,expense,Makan & Minum,su,easy,sundanese_daily_conversation
+VX-SU-003244,abdi asup duit bulanan Rp750.000 ka cash,abdi asup duit bulanan rp750 000 ke cash,750000,,income,Gaji,su,medium,wallet_mention
+VX-SU-003845,urang mésér lima belas rebu keur hayam géprék,urang mésér lima belas ribu keur hayam géprék,15000,5000.0,expense,Makan & Minum,su,easy,sundanese_daily_conversation
+VX-SU-003180,poé ieu mayar balanja bulanan sakitar tilu ratus rébu tina cash,poé ieu bayar balanja bulanan sakitar tilu ratus rébu tina cash,300000,,expense,Belanja,su,medium,wallet_mention
+VX-SU-001950,poé ieu desain logo asup Rp150.000,poé ieu desain logo asup rp150 000,150000,,income,Freelance,su,easy,income_basic
+VX-SU-001576,minggu ieu nampi bonus damel Rp500.000,minggu ieu terima bonus damel rp500 000,500000,,income,Gaji,su,easy,income_basic
+VX-SU-000489,peuting tadi mayar parkir motor sakitar sapuluh rébu,peuting tadi bayar parkir motor sakitar sapuluh rébu,10000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-000881,sim kuring meuli Rp7.000 keur és téh,sim kuring beli rp7 000 keur és téh,7000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-001029,urang mayar lima puluh rébu keur cai,urang bayar lima puluh rébu keur cai,50000,,expense,Tagihan & Utilitas,su,easy,expense_basic
+VX-SU-000805,kamari mésér dahar siang sakitar opat puluh lima rébu,kamari mésér dahar siang sakitar opat puluh lima rébu,45000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-004886,kamari top up gopay dua ratus rébu tina bri,kamari top up gopay dua ratus rébu tina bri,200000,,transfer,Transfer,su,hard,transfer_future_optional
+VX-SU-001364,peuting tadi mésér pulsa Rp25.000,peuting tadi mésér pulsa rp25 000,25000,,expense,Tagihan & Utilitas,su,easy,expense_basic
+VX-SU-004882,abdi transfer Rp50.000 tina shopeepay ka bri,abdi transfer rp50 000 tina shopeepay ke bri,50000,,transfer,Transfer,su,hard,transfer_future_optional
+VX-SU-001941,isuk tadi dibayar desain logo Rp150.000,isuk tadi dibayar desain logo rp150 000,150000,,income,Freelance,su,easy,income_basic
+VX-SU-003050,urang narima gajih Rp1.500.000 ka dana,urang narima gajih rp1 500 000 ke dana,1500000,,income,Gaji,su,medium,wallet_mention
+VX-SU-000961,kamari mésér saratus dua puluh lima rébu keur skincare,kamari mésér saratus dua puluh lima rébu keur skincare,125000,,expense,Belanja,su,easy,expense_basic
+VX-SU-000203,kamari listrik lima puluh rébu,kamari listrik lima puluh rébu,50000,,expense,Tagihan & Utilitas,su,easy,expense_basic
+VX-SU-003697,abdi dibayar ngadamel website Rp1.500.000,abdi dibayar ngadamel website rp1 500 000,1500000,,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-001328,urang meuli bensin saratus rébu,urang beli bensin saratus rébu,100000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-002952,poé ieu dibayar tujuh ratus lima puluh rébu tina ngadamel website ka bca,poé ieu dibayar tujuh ratus lima puluh rébu tina ngadamel website ke bca,750000,,income,Freelance,su,medium,wallet_mention
+VX-SU-000131,tadi mésér tujuh puluh lima rébu keur skincare,tadi mésér tujuh puluh lima rébu keur skincare,75000,,expense,Belanja,su,easy,expense_basic
+VX-SU-004640,kamari kapaké Rp100.000 jang netflix,kamari kapaké rp100 000 jang netflix,100000,,expense,Hiburan,su,hard,ambiguous_hard_case
+VX-SU-004638,isuk tadi meunang lima ratus rébu ngadamel website,isuk tadi meunang lima ratus rébu ngadamel website,500000,,income,Freelance,su,hard,ambiguous_hard_case
+VX-SU-001632,kuring bonus damel asup dua ratus lima puluh rébu,kuring bonus damel asup dua ratus lima puluh rébu,250000,,income,Gaji,su,easy,income_basic
+VX-SU-002053,tadi duit bulanan asup lima ratus rébu,tadi duit bulanan asup lima ratus rébu,500000,,income,Gaji,su,easy,income_basic
+VX-SU-004210,sim kuring aya duit asup hiji juta lima ratus rébu tina proyék freelance,sim kuring aya duit asup hiji juta lima ratus rébu tina proyék freelance,1500000,1000000.0,income,Freelance,su,medium,slang_typo_noisy_sunda
+VX-SU-002859,kamari desain logo asup dua ratus lima puluh rébu ka ovo,kamari desain logo asup dua ratus lima puluh rébu ke ovo,250000,,income,Freelance,su,medium,wallet_mention
+VX-SU-003489,isuk tadi hayam géprék Rp15.000,isuk tadi hayam géprék rp15 000,15000,,expense,Makan & Minum,su,easy,sundanese_daily_conversation
+VX-SU-000861,kamari ubar batuk tilu puluh lima rébu,kamari ubar batuk tilu puluh lima rébu,35000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-002271,urang angkot sapuluh rébu,urang angkot sapuluh rébu,10000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-000956,isuk tadi mésér baju tujuh puluh lima rébu,isuk tadi mésér baju tujuh puluh lima rébu,75000,,expense,Belanja,su,easy,expense_basic
+VX-SU-002397,tadi bensin saratus rébu,tadi bensin saratus rébu,100000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-003844,kuring mayar tol sakitar lima belas rebu,kuring bayar tol sakitar lima belas ribu,15000,5000.0,expense,Transportasi,su,easy,sundanese_daily_conversation
+VX-SU-001401,minggu ieu meuli vitamin Rp100.000,minggu ieu beli vitamin rp100 000,100000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-001446,kuring tol Rp50.000,kuring tol rp50 000,50000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-004659,tadi kaluar Rp50.000 keur listrik,tadi kaluar rp50 000 keur listrik,50000,,expense,Tagihan & Utilitas,su,hard,ambiguous_hard_case
+VX-SU-000099,sim kuring mayar karaoke sakitar Rp50.000,sim kuring bayar karaoke sakitar rp50 000,50000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-001022,sim kuring mayar saratus rébu keur apoték,sim kuring bayar saratus rébu keur apoték,100000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-004652,abdi duit asup dua juta lima ratus rébu gajih,abdi duit asup dua juta lima ratus rébu gajih,2500000,2000000.0,income,Gaji,su,hard,ambiguous_hard_case
+VX-SU-002201,ojék online tilu puluh rébu,ojék online tilu puluh rébu,30000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-001627,urang aya duit asup Rp250.000 tina desain logo,urang aya duit asup rp250 000 tina desain logo,250000,,income,Freelance,su,easy,income_basic
+VX-SU-003994,kuring mayar lima belas rebu keur tol,kuring bayar lima belas ribu keur tol,15000,5000.0,expense,Transportasi,su,easy,sundanese_daily_conversation
+VX-SU-000996,meuli dua belas rébu keur kopi,beli dua belas rébu keur kopi,12000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-003805,urang asup tujuh ratus lima puluh rébu tina duit bulanan atuh,urang asup tujuh ratus lima puluh rébu tina duit bulanan atuh,750000,,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-002769,sim kuring angkot tujuh rébu,sim kuring angkot tujuh rébu,7000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-000767,sim kuring listrik Rp200.000 mah,sim kuring listrik rp200 000 mah,200000,,expense,Tagihan & Utilitas,su,easy,expense_basic
+VX-SU-001783,tadi nampi bayaran hiji juta lima ratus rébu tina ngadamel website,tadi terima bayaran hiji juta lima ratus rébu tina ngadamel website,1500000,1000000.0,income,Freelance,su,easy,income_basic
+VX-SU-001435,meuli masker sakitar lima belas rébu,beli masker sakitar lima belas rébu,15000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-001480,tadi ojék online Rp12.000,tadi ojék online rp12 000,12000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-003096,poé ieu mayar apoték tujuh puluh lima rébu tina shopeepay,poé ieu bayar apoték tujuh puluh lima rébu tina shopeepay,75000,,expense,Kesehatan,su,medium,wallet_mention
+VX-SU-001603,kamari meunang duit tina proyék freelance Rp1.500.000,kamari meunang duit tina proyék freelance rp1 500 000,1500000,,income,Freelance,su,easy,income_basic
+VX-SU-003730,tadi mayar ojék online Rp18.000 deui,tadi bayar ojék online rp18 000 deui,18000,,expense,Transportasi,su,easy,sundanese_daily_conversation
+VX-SU-002383,isuk tadi mayar ojék online Rp12.000,isuk tadi bayar ojék online rp12 000,12000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-002452,urang mayar tol sakitar Rp25.000,urang bayar tol sakitar rp25 000,25000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-000836,abdi mayar angkot Rp5.000,abdi bayar angkot rp5 000,5000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-000404,sim kuring mayar apoték sakitar saratus rébu,sim kuring bayar apoték sakitar saratus rébu,100000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-002804,urang balanja bulanan dua ratus rébu tina gopay,urang balanja bulanan dua ratus rébu tina gopay,200000,,expense,Belanja,su,medium,wallet_mention
+VX-SU-004209,kuring hayam géprék dalapan belas rebu,kuring hayam géprék dalapan belas ribu,18000,8000.0,expense,Makan & Minum,su,medium,slang_typo_noisy_sunda
+VX-SU-004512,isuk tadi kaluar lima ratus rébu keur tiket konser,isuk tadi kaluar lima ratus rébu keur tiket konser,500000,,expense,Hiburan,su,hard,ambiguous_hard_case
+VX-SU-002435,kamari meuli saratus rébu keur bensin,kamari beli saratus rébu keur bensin,100000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-004510,isuk tadi saldo nambahan saratus rébu ngalereskeun bug aplikasi,isuk tadi saldo nambahan saratus rébu ngalereskeun bug aplikasi,100000,,income,Freelance,su,hard,ambiguous_hard_case
+VX-SU-000254,urang jajan dua puluh rébu keur kopi,urang jajan dua puluh rébu keur kopi,20000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-004538,sim kuring saldo nambahan hiji juta lima ratus rébu proyék freelance,sim kuring saldo nambahan hiji juta lima ratus rébu proyék freelance,1500000,1000000.0,income,Freelance,su,hard,ambiguous_hard_case
+VX-SU-000624,kamari mésér sampo sakitar dua puluh lima rébu,kamari mésér sampo sakitar dua puluh lima rébu,25000,,expense,Belanja,su,easy,expense_basic
+VX-SU-003770,abdi asup hiji juta lima ratus rébu tina duit bulanan,abdi asup hiji juta lima ratus rébu tina duit bulanan,1500000,1000000.0,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-003945,urang aya duit asup dua ratus lima puluh rébu tina desain logo,urang aya duit asup dua ratus lima puluh rébu tina desain logo,250000,,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-001920,isuk tadi aya duit asup dua ratus lima puluh rébu tina proyék freelance,isuk tadi aya duit asup dua ratus lima puluh rébu tina proyék freelance,250000,,income,Freelance,su,easy,income_basic
+VX-SU-004695,minggu ieu duit asup Rp3.000.000 gajih,minggu ieu duit asup rp3 000 000 gajih,3000000,,income,Gaji,su,hard,ambiguous_hard_case
+VX-SU-003024,kuring mayar angkot sakitar dua belas rébu tina gopay,kuring bayar angkot sakitar dua belas rébu tina gopay,12000,,expense,Transportasi,su,medium,wallet_mention
+VX-SU-000649,kamari meuli dua belas rebu keur baso,kamari beli dua belas ribu keur baso,12000,2000.0,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-004686,isuk tadi kapaké dua puluh lima rébu jang sabun,isuk tadi kapaké dua puluh lima rébu jang sabun,25000,,expense,Belanja,su,hard,ambiguous_hard_case
+VX-SU-003172,abdi aya duit asup hiji juta lima ratus rébu tina ngadamel website ka cash,abdi aya duit asup hiji juta lima ratus rébu tina ngadamel website ke cash,1500000,1000000.0,income,Freelance,su,medium,wallet_mention
+VX-SU-000503,minggu ieu vitamin Rp100.000,minggu ieu vitamin rp100 000,100000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-002229,urang mayar tol lima puluh rébu,urang bayar tol lima puluh rébu,50000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-004888,tadi transfer Rp1.000.000 tina bca ka bri,tadi transfer rp1 000 000 tina bca ke bri,1000000,,transfer,Transfer,su,hard,transfer_future_optional
+VX-SU-000748,minggu ieu mayar bioskop sakitar lima puluh rébu,minggu ieu bayar bioskop sakitar lima puluh rébu,50000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-002789,peuting tadi mayar angkot Rp5.000 nya,peuting tadi bayar angkot rp5 000 nya,5000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-002910,mayar cai sakitar saratus rébu tina ovo,bayar cai sakitar saratus rébu tina ovo,100000,,expense,Tagihan & Utilitas,su,medium,wallet_mention
+VX-SU-004994,peuting tadi top up cash Rp1.000.000 tina bca,peuting tadi top up cash rp1 000 000 tina bca,1000000,,transfer,Transfer,su,hard,transfer_future_optional
+VX-SU-000601,tadi mayar parkir motor lima rébu,tadi bayar parkir motor lima rébu,5000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-002687,abdi mayar tol lima puluh rébu,abdi bayar tol lima puluh rébu,50000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-004671,kamari habis lima puluh rébu keur dokter,kamari habis lima puluh rébu keur dokter,50000,,expense,Kesehatan,su,hard,ambiguous_hard_case
+VX-SU-000764,sim kuring dahar siang dua puluh rébu,sim kuring dahar siang dua puluh rébu,20000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-003854,minggu ieu nampi Rp750.000 tina bonus damel nya,minggu ieu terima rp750 000 tina bonus damel nya,750000,,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-003643,tadi gajih asup Rp3.500.000,tadi gajih asup rp3 500 000,3500000,,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-003531,abdi mésér tiket konser sakitar tilu ratus rébu,abdi mésér tiket konser sakitar tilu ratus rébu,300000,,expense,Hiburan,su,easy,sundanese_daily_conversation
+VX-SU-003957,minggu ieu bonus damel asup dua ratus lima puluh rébu,minggu ieu bonus damel asup dua ratus lima puluh rébu,250000,,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-002864,isuk tadi meuli cilok sakitar sapuluh rébu tina bri,isuk tadi beli cilok sakitar sapuluh rébu tina bri,10000,,expense,Makan & Minum,su,medium,wallet_mention
+VX-SU-003335,mésér baju sakitar Rp200.000,mésér baju sakitar rp200 000,200000,,expense,Belanja,su,easy,sundanese_daily_conversation
+VX-SU-003954,kamari aya duit asup dua ratus lima puluh rébu tina bonus damel,kamari aya duit asup dua ratus lima puluh rébu tina bonus damel,250000,,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-000770,sim kuring meuli Rp15.000 keur sabun,sim kuring beli rp15 000 keur sabun,15000,,expense,Belanja,su,easy,expense_basic
+VX-SU-002801,kamari meunang bonus damel tujuh ratus lima puluh rébu ka cash,kamari meunang bonus damel tujuh ratus lima puluh rébu ke cash,750000,,income,Gaji,su,medium,wallet_mention
+VX-SU-000161,isuk tadi meuli seblak lima belas rebu,isuk tadi beli seblak lima belas ribu,15000,5000.0,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-001444,urang meuli seblak sakitar dalapan belas rébu,urang beli seblak sakitar dalapan belas rébu,18000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-001956,dibayar Rp500.000 tina ngadamel website,dibayar rp500 000 tina ngadamel website,500000,,income,Freelance,su,easy,income_basic
+VX-SU-001674,aya duit asup Rp100.000 tina desain logo,aya duit asup rp100 000 tina desain logo,100000,,income,Freelance,su,easy,income_basic
+VX-SU-001052,kamari kuota internét Rp75.000,kamari kuota internét rp75 000,75000,,expense,Tagihan & Utilitas,su,easy,expense_basic
+VX-SU-003654,tadi proyék freelance asup hiji juta lima ratus rébu,tadi proyék freelance asup hiji juta lima ratus rébu,1500000,1000000.0,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-001307,isuk tadi mésér lima belas rebu keur roti,isuk tadi mésér lima belas ribu keur roti,15000,5000.0,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-000035,poé ieu mayar tol lima belas rebu,poé ieu bayar tol lima belas ribu,15000,5000.0,expense,Transportasi,su,easy,expense_basic
+VX-SU-001368,urang angkot tujuh rébu,urang angkot tujuh rébu,7000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-000393,mayar karaoke saratus rébu,bayar karaoke saratus rébu,100000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-001841,kamari aya duit asup Rp100.000 tina desain logo,kamari aya duit asup rp100 000 tina desain logo,100000,,income,Freelance,su,easy,income_basic
+VX-SU-002063,meunang tujuh ratus lima puluh rébu tina duit bulanan,meunang tujuh ratus lima puluh rébu tina duit bulanan,750000,,income,Gaji,su,easy,income_basic
+VX-SU-003118,tadi ngeusian bensin sakitar saratus rébu tina ovo,tadi ngeusian bensin sakitar saratus rébu tina ovo,100000,,expense,Transportasi,su,medium,wallet_mention
+VX-SU-000453,kamari mayar tujuh puluh lima rébu keur cai,kamari bayar tujuh puluh lima rébu keur cai,75000,,expense,Tagihan & Utilitas,su,easy,expense_basic
+VX-SU-000957,sim kuring seblak lima belas rebu,sim kuring seblak lima belas ribu,15000,5000.0,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-004836,isuk tadi kirim tujuh puluh lima rébu tina cash ka mandiri,isuk tadi kirim tujuh puluh lima rébu tina cash ke mandiri,75000,,transfer,Transfer,su,hard,transfer_future_optional
+VX-SU-000104,isuk tadi mésér dua ratus lima puluh rébu keur sapatu,isuk tadi mésér dua ratus lima puluh rébu keur sapatu,250000,,expense,Belanja,su,easy,expense_basic
+VX-SU-000207,isuk tadi baju Rp100.000,isuk tadi baju rp100 000,100000,,expense,Belanja,su,easy,expense_basic
+VX-SU-000710,mésér tiket konser sakitar saratus lima puluh rébu,mésér tiket konser sakitar saratus lima puluh rébu,150000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-003371,urang dibayar ngadamel website Rp1.500.000,urang dibayar ngadamel website rp1 500 000,1500000,,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-002102,kuring dibayar desain logo tilu ratus rébu,kuring dibayar desain logo tilu ratus rébu,300000,,income,Freelance,su,easy,income_basic
+VX-SU-001887,sim kuring dibayar ngalereskeun bug aplikasi Rp350.000,sim kuring dibayar ngalereskeun bug aplikasi rp350 000,350000,,income,Freelance,su,easy,income_basic
+VX-SU-000401,top up Rp20.000 keur game,top up rp20 000 keur game,20000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-002495,minggu ieu mayar tol dua puluh lima rébu,minggu ieu bayar tol dua puluh lima rébu,25000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-003821,peuting tadi bensin Rp75.000 nya,peuting tadi bensin rp75 000 nya,75000,,expense,Transportasi,su,easy,sundanese_daily_conversation
+VX-SU-001137,kamari meuli alat tulis dua puluh lima rébu,kamari beli alat tulis dua puluh lima rébu,25000,,expense,Belanja,su,easy,expense_basic
+VX-SU-002969,peuting tadi ngadamel website asup hiji juta lima ratus rébu ka shopeepay,peuting tadi ngadamel website asup hiji juta lima ratus rébu ke shopeepay,1500000,1000000.0,income,Freelance,su,medium,wallet_mention
+VX-SU-002304,minggu ieu mayar ojék online sakitar tilu puluh rébu,minggu ieu bayar ojék online sakitar tilu puluh rébu,30000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-003061,abdi mésér baso sakitar lima belas rebu tina bri,abdi mésér baso sakitar lima belas ribu tina bri,15000,5000.0,expense,Makan & Minum,su,medium,wallet_mention
+VX-SU-003137,poé ieu mésér dahar siang Rp20.000 tina cash,poé ieu mésér dahar siang rp20 000 tina cash,20000,,expense,Makan & Minum,su,medium,wallet_mention
+VX-SU-003905,kamari aya duit asup Rp150.000 tina desain logo,kamari aya duit asup rp150 000 tina desain logo,150000,,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-004665,kuring kaluar sapuluh rébu keur angkot,kuring kaluar sapuluh rébu keur angkot,10000,,expense,Transportasi,su,hard,ambiguous_hard_case
+VX-SU-001301,poé ieu mésér vitamin tujuh puluh lima rébu,poé ieu mésér vitamin tujuh puluh lima rébu,75000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-002544,kuring mayar parkir motor sakitar Rp10.000,kuring bayar parkir motor sakitar rp10 000,10000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-002129,nampi bayaran tilu ratus rébu tina desain logo,terima bayaran tilu ratus rébu tina desain logo,300000,,income,Freelance,su,easy,income_basic
+VX-SU-001710,minggu ieu dibayar hiji juta lima ratus rébu tina proyék freelance,minggu ieu dibayar hiji juta lima ratus rébu tina proyék freelance,1500000,1000000.0,income,Freelance,su,easy,income_basic
+VX-SU-003755,tadi balanja bulanan Rp300.000,tadi balanja bulanan rp300 000,300000,,expense,Belanja,su,easy,sundanese_daily_conversation
+VX-SU-001642,peuting tadi aya duit asup Rp1.000.000 tina ngadamel website,peuting tadi aya duit asup rp1 000 000 tina ngadamel website,1000000,,income,Freelance,su,easy,income_basic
+VX-SU-001573,poé ieu nampi bayaran Rp300.000 tina desain logo,poé ieu terima bayaran rp300 000 tina desain logo,300000,,income,Freelance,su,easy,income_basic
+VX-SU-004826,kamari mindahkeun saldo lima ratus rébu tina mandiri ka cash,kamari mindahkeun saldo lima ratus rébu tina mandiri ke cash,500000,,transfer,Transfer,su,hard,transfer_future_optional
+VX-SU-001017,urang game Rp50.000,urang game rp50 000,50000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-002458,mayar dalapan belas rebu keur ojék online,bayar dalapan belas ribu keur ojék online,18000,8000.0,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-003522,poé ieu mayar tujuh puluh lima rébu keur apoték,poé ieu bayar tujuh puluh lima rébu keur apoték,75000,,expense,Kesehatan,su,easy,sundanese_daily_conversation
+VX-SU-003389,tadi gajih asup Rp5.000.000,tadi gajih asup rp5 000 000,5000000,,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-001083,kamari balanja balanja bulanan dua ratus rébu,kamari balanja balanja bulanan dua ratus rébu,200000,,expense,Belanja,su,easy,expense_basic
+VX-SU-000242,peuting tadi jajan cilok dalapan rébu,peuting tadi jajan cilok dalapan rébu,8000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-001758,poé ieu nampi bayaran tilu ratus rébu tina desain logo,poé ieu terima bayaran tilu ratus rébu tina desain logo,300000,,income,Freelance,su,easy,income_basic
+VX-SU-003364,sim kuring meunang duit tina proyék freelance Rp150.000,sim kuring meunang duit tina proyék freelance rp150 000,150000,,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-000147,urang mayar parkir motor Rp5.000,urang bayar parkir motor rp5 000,5000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-003948,isuk tadi netflix Rp75.000,isuk tadi netflix rp75 000,75000,,expense,Hiburan,su,easy,sundanese_daily_conversation
+VX-SU-001735,sim kuring nampi lima ratus rébu tina bonus damel,sim kuring terima lima ratus rébu tina bonus damel,500000,,income,Gaji,su,easy,income_basic
+VX-SU-000776,kuring mésér masker sakitar Rp20.000,kuring mésér masker sakitar rp20 000,20000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-000647,mayar dokter sakitar dua ratus rébu,bayar dokter sakitar dua ratus rébu,200000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-004630,kuring kaluar Rp7.000 keur és téh,kuring kaluar rp7 000 keur és téh,7000,,expense,Makan & Minum,su,hard,ambiguous_hard_case
+VX-SU-001276,peuting tadi langganan aplikasi Rp100.000,peuting tadi langganan aplikasi rp100 000,100000,,expense,Tagihan & Utilitas,su,easy,expense_basic
+VX-SU-004549,sim kuring kapaké Rp150.000 jang baju,sim kuring kapaké rp150 000 jang baju,150000,,expense,Belanja,su,hard,ambiguous_hard_case
+VX-SU-002624,poé ieu angkot dua belas rebu,poé ieu angkot dua belas ribu,12000,2000.0,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-004509,tadi meunang dua juta lima ratus rébu gajih,tadi meunang dua juta lima ratus rébu gajih,2500000,2000000.0,income,Gaji,su,hard,ambiguous_hard_case
+VX-SU-001155,tadi mayar Rp60.000 keur bioskop,tadi bayar rp60 000 keur bioskop,60000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-002298,kuring mayar dua belas rebu keur angkot,kuring bayar dua belas ribu keur angkot,12000,2000.0,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-003296,minggu ieu gajih asup Rp2.500.000 ka cash,minggu ieu gajih asup rp2 500 000 ke cash,2500000,,income,Gaji,su,medium,wallet_mention
+VX-SU-003740,poé ieu narima gajih tilu juta lima ratus rébu,poé ieu narima gajih tilu juta lima ratus rébu,3500000,3000000.0,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-003996,kuring aya duit asup lima ratus rébu tina bonus damel,kuring aya duit asup lima ratus rébu tina bonus damel,500000,,income,Gaji,su,easy,sundanese_daily_conversation
+VX-SU-001593,isuk tadi nampi bonus damel Rp1.000.000,isuk tadi terima bonus damel rp1 000 000,1000000,,income,Gaji,su,easy,income_basic
+VX-SU-001440,kuring meuli game Rp50.000,kuring beli game rp50 000,50000,,expense,Hiburan,su,easy,expense_basic
+VX-SU-001292,isuk tadi mayar ojék online Rp15.000,isuk tadi bayar ojék online rp15 000,15000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-000002,abdi mayar saratus rébu keur dokter,abdi bayar saratus rébu keur dokter,100000,,expense,Kesehatan,su,easy,expense_basic
+VX-SU-003511,urang nampi bayaran Rp500.000 tina ngalereskeun bug aplikasi,urang terima bayaran rp500 000 tina ngalereskeun bug aplikasi,500000,,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-002762,poé ieu ngeusian bensin sakitar Rp30.000,poé ieu ngeusian bensin sakitar rp30 000,30000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-002339,poé ieu mayar dua belas rébu keur ojék online,poé ieu bayar dua belas rébu keur ojék online,12000,,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-004846,kamari transfer dua puluh rébu tina bri ka ovo,kamari transfer dua puluh rébu tina bri ke ovo,20000,,transfer,Transfer,su,hard,transfer_future_optional
+VX-SU-003973,tadi nampi bayaran desain logo dua ratus lima puluh rébu,tadi terima bayaran desain logo dua ratus lima puluh rébu,250000,,income,Freelance,su,easy,sundanese_daily_conversation
+VX-SU-002950,poé ieu meunang duit tina proyék freelance hiji juta lima ratus rébu ka cash,poé ieu meunang duit tina proyék freelance hiji juta lima ratus rébu ke cash,1500000,1000000.0,income,Freelance,su,medium,wallet_mention
+VX-SU-000263,kuring ojék online dua puluh dua rébu,kuring ojék online dua puluh dua rébu,22000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-001154,minggu ieu meuli roti sakitar dalapan rébu,minggu ieu beli rodari sakitar dalapan rébu,8000,,expense,Makan & Minum,su,easy,expense_basic
+VX-SU-001702,narima gajih hiji juta lima ratus rébu,narima gajih hiji juta lima ratus rébu,1500000,1000000.0,income,Gaji,su,easy,income_basic
+VX-SU-001355,minggu ieu balanja balanja bulanan sakitar Rp200.000,minggu ieu balanja balanja bulanan sakitar rp200 000,200000,,expense,Belanja,su,easy,expense_basic
+VX-SU-001549,abdi aya duit asup Rp1.000.000 tina duit bulanan,abdi aya duit asup rp1 000 000 tina duit bulanan,1000000,,income,Gaji,su,easy,income_basic
+VX-SU-001496,kuring alat tulis Rp25.000,kuring alat tulis rp25 000,25000,,expense,Belanja,su,easy,expense_basic
+VX-SU-002344,poé ieu mayar angkot sakitar dua belas rebu,poé ieu bayar angkot sakitar dua belas ribu,12000,2000.0,expense,Transportasi,su,easy,transport_parkir_bensin
+VX-SU-004731,kamari meunang Rp1.000.000 ngadamel website,kamari meunang rp1 000 000 ngadamel website,1000000,,income,Freelance,su,hard,ambiguous_hard_case
+VX-SU-003221,kuring duit bulanan asup hiji juta lima ratus rébu ka bri,kuring duit bulanan asup hiji juta lima ratus rébu ke bri,1500000,1000000.0,income,Gaji,su,medium,wallet_mention
+VX-SU-000201,mayar ojék online lima belas rébu,bayar ojék online lima belas rébu,15000,,expense,Transportasi,su,easy,expense_basic
+VX-SU-004901,kuring mindahkeun saldo Rp1.000.000 tina dana ka bca,kuring mindahkeun saldo rp1 000 000 tina dana ke bca,1000000,,transfer,Transfer,su,hard,transfer_future_optional

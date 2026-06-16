@@ -1,0 +1,48 @@
+project:
+  name: fluxa_voice_transaction
+  experiment_name: fluxa_voice_intent_baseline_v1
+  random_state: 42
+
+paths:
+  dataset_path: data/fluxa_voice_intent_dataset_sunda_5000.jsonl
+  output_dir: outputs
+  model_dir: models
+  report_dir: reports
+
+columns:
+  text: text
+  type: type
+  category: category
+  wallet: wallet
+  amount: amount
+  description: description
+
+labels:
+  valid_types:
+    - expense
+    - income
+    - transfer
+
+split:
+  train_size: 0.80
+  validation_size: 0.10
+  test_size: 0.10
+
+baseline:
+  tfidf:
+    max_features: 12000
+    ngram_range: [1, 2]
+    min_df: 1
+  logistic_regression:
+    max_iter: 1000
+    class_weight: balanced
+
+transformer:
+  enabled: false
+  model_name: indobenchmark/indobert-base-p1
+  max_length: 96
+  epochs: 5
+  train_batch_size: 16
+  eval_batch_size: 16
+  learning_rate: 0.00002
+  weight_decay: 0.01
