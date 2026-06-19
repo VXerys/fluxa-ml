@@ -1,7 +1,7 @@
 {
   "samples": 500,
   "type_accuracy": 1.0,
-  "category_accuracy": 1.0,
+  "category_accuracy": 0.84,
   "amount_accuracy": 1.0,
-  "all_fields_accuracy": 1.0
+  "all_fields_accuracy": 0.84
 }
